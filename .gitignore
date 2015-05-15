@@ -1,0 +1,26 @@
+.DS_Store
+
+# IntelliJ
+*.iml
+.idea
+
+# Eclipse
+.settings
+.classpath
+.project
+
+# Builds
+**/build/
+dist/
+
+*.class
+
+# Package Files #
+#*.jar
+#*.war
+#*.ear
+
+/profiles/
+/lib/
+/testcorpus/
+/testresults/
